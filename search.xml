@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[zookeeper 命令使用]]></title>
+    <url>%2Fposts%2F56017bc5.html</url>
+    <content type="text"><![CDATA[zkCli.sh123# 指定ip和端口，zkCli.sh默认进入的是2181端口# sh zkCli.sh -server localhsot:2170sh zkCli.sh -server ip:portzkServer.sh1234# 启动sh zkServer.sh start# 查看状态sh zkServersh status]]></content>
+      <categories>
+        <category>zookeeper</category>
+      </categories>
+      <tags>
+        <tag>zookeeper</tag>
+      </tags>
+  </entry>
+</search>
